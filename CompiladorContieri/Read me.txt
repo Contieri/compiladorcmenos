@@ -1,0 +1,7 @@
+É necessário ter o Bison e Flex instalados
+Para se compilar o compilador basta
+executar o arquivo:
+./compile.sh
+
+Para rodar algum código:
+./cll <nome do codigo.cminus>
